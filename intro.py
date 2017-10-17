@@ -20,7 +20,7 @@ print("Hello world")
 message = "Level Two"
 
 # Add a line below to print this variable
-
+print (message)
 # GO!
 
 # 3. The variable above is called a string
@@ -31,12 +31,13 @@ message = "Level Two"
 
 # 4. Another type of variable is an integer (a whole number)
 a = 123
+print ("Thats right")
 b = 654
 c = a + b
 
 # Try printing the value of c below to see the answer
 # GO!
-
+print (c)
 # 5. You can use other operators like subtract (-) and multiply (*)
 # Try some below by replacing the word with the correct operator
 
