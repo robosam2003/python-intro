@@ -26,7 +26,7 @@ print (message)
 # 3. The variable above is called a string
 # You can use single or double quotes (but must close them)
 # You can ask Python what type a variable is. Try uncommenting the next line:
-# print(type(message))
+print(type(message))
 # GO!
 
 # 4. Another type of variable is an integer (a whole number)
