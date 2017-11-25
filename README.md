@@ -1,3 +1,4 @@
+
 # Python Intro
 
 A Python learning tool with beginner exercises in using variables, data structures and basic control flow.
@@ -53,7 +54,7 @@ Unless otherwise specified, everything in this repository is covered by the foll
 
 Based on a work at https://github.com/bennuttall/python-intro
 
+![picture](https://www.python.org/static/community_logos/python-logo-inkscape.svg)  
 
-![picture][https://www.python.org/static/community_logos/python-logo-inkscape.svg]
-##**student fork**
-This fork is a project for me to learn python and may contain spoilers
+##student fork  
+this is a fork of the project for you to learn python and may contain sploilers
