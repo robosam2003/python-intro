@@ -56,5 +56,5 @@ Based on a work at https://github.com/bennuttall/python-intro
 
 ![picture](https://www.python.org/static/community_logos/python-logo-inkscape.svg)  
 
-##student fork  
+## student fork  
 this is a fork of the project for you to learn python and may contain sploilers
